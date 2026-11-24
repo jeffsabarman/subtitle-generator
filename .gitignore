@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Generated files
+output/
+*.srt
+*.ass
+
+# Temporary files
+*.wav
+*.mp3
+*.mp4
+
+# Input and output
+input/
+output/
